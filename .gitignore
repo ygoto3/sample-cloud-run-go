@@ -1,0 +1,4 @@
+terraform/server/terraform.tfstate
+terraform/server/terraform.tfstate.backup
+terraform/server/.terraform/
+terraform/server/.terraform.lock.hcl
